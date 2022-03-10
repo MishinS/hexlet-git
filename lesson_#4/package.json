@@ -1,0 +1,23 @@
+{
+  "name": "jest",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MishinS/hexlet-git.git"
+  },
+  "author": "Sergei Mishin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MishinS/hexlet-git/issues"
+  },
+  "homepage": "https://github.com/MishinS/hexlet-git#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
